@@ -12,11 +12,6 @@ A simple and interactive ToDo list built using React. You can add and delete tas
 - 🔄 Real-time updates with React state
 - ⚛️ Built with React + Vite
 
----
-
-## 📸 Preview
-
-![Screenshot](https://via.placeholder.com/600x300?text=ToDo+App+Preview)
 
 ---
 
@@ -77,19 +72,10 @@ npm run build
 
 ---
 
-## 🌐 Live Demo
-
-Coming soon... (or [Deploy on Netlify/Vercel](https://vercel.com/) — I can help if needed!)
-
----
-
 ## 👩‍💻 Author
 
-- **Your Name** (e.g. Rajalakshmi R.)
-- [GitHub](https://github.com/YOUR_USERNAME)
+- **Rajalakshmi R.**
+- [GitHub](https://github.com/Rajalakshmi2110)
 
 ---
 
-## 📃 License
-
-This project is open source and free to use.
