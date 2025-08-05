@@ -9,6 +9,7 @@ A simple and interactive ToDo list built using React. You can add and delete tas
 
 - ✅ Add new tasks
 - ❌ Delete tasks by clicking on them
+- ✏️ Update tasks by clicking on them
 - 🔄 Real-time updates with React state
 - ⚛️ Built with React + Vite
 
